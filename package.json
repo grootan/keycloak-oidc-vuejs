@@ -1,7 +1,10 @@
 {
   "name": "keycloak-oidc-vue",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
+  "description": "A vuejs application for implicit flow using openid connect",
+  "repository": "https://github.com/grootan/keycloak-oidc-vuejs",
+  "author": "sriram.karthick@grootan.com",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
