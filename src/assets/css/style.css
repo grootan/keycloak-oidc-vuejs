@@ -1,0 +1,45 @@
+body{
+    font-family: 'Rubik', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: normal;
+}
+.mdWrapper {
+    width: 500px;
+    margin: 10% auto 0;
+    text-align: center;
+    border: solid 1px #e8e8e8;
+    padding: 40px 0 60px;
+}
+.mdWrapper img{
+    max-width: 100%;
+    height: 100px;
+}
+.mdWrapper h3 {
+    font-size: 21px;
+    font-weight: 500;
+}
+.mdWrapper h4 {
+    font-size: 20px;
+    font-weight: 300;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+.mdWrapper h5 {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 0;
+}
+.mdWrapper p {
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+.mdWrapper .btn-normal {
+    background: #05c46b;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 15px;
+    padding: 10px 30px;
+    border: none;
+    cursor: pointer;
+}
